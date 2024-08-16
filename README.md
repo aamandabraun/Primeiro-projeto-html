@@ -1,7 +1,7 @@
 # Aprendendo HTML
-Através deste projeto aprendi os fundamentos da linguagem HTML. 
+Através deste projeto aprendi os fundamentos da linguagem HTML reforçando a integração com o git e github com um projeto feito totalmente através do Sublime, sendo ministrado nas aulas do Jaime Damasceno, disponibilizado pela Udemy.
 
-`Contém imagens, links, formulários, além do básico como quebra de texto e listas.`
+`Contém imagens, links, formulários, tabelas, além do básico como quebra de texto e listas.`
 
 ## Este é meu primeiro projeto
 Dito isso, posso assumir que inspirou certas ideias:
